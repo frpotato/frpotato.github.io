@@ -1,0 +1,66 @@
+<?xml-stylesheet type="text/xsl" href="https://frpotato.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://frpotato.github.io/about/</loc>
+    <lastmod>2015-06-28T21:41:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/categories/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/post/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/tags/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/tags/templates/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/tags/themes/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/post/creating-a-new-theme/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/</loc>
+    <lastmod>2015-06-28T21:41:52+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/categories/%E6%9D%82%E8%AE%B0/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frpotato.github.io/tags/%E6%9D%82%E8%AE%B0/</loc>
+    <lastmod>2015-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

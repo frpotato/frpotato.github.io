@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂记 on 春眠不觉觉</title>
+    <link>https://frpotato.github.io/tags/%E6%9D%82%E8%AE%B0/</link>
+    <description>Recent content in 杂记 on 春眠不觉觉</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jun 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://frpotato.github.io/tags/%E6%9D%82%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>主题推介</title>
+      <link>https://frpotato.github.io/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://frpotato.github.io/post/creating-a-new-theme/</guid>
+      <description>记录 刚使用hugo搭建了自己的个人博客，写个测试文件，另外附上博客主题的传送门，感谢大神： https://github.com/xianmin/hugo-theme-jane/blob/master/README-zh.md</description>
+    </item>
+    
+  </channel>
+</rss>
